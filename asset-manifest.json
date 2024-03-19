@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/soft-dev-technologies/static/css/main.32dfad0e.css",
+    "main.js": "/soft-dev-technologies/static/js/main.0e429a28.js",
+    "static/js/453.7d1c53ea.chunk.js": "/soft-dev-technologies/static/js/453.7d1c53ea.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/soft-dev-technologies/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/soft-dev-technologies/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/logo.svg": "/soft-dev-technologies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/soft-dev-technologies/index.html",
+    "main.32dfad0e.css.map": "/soft-dev-technologies/static/css/main.32dfad0e.css.map",
+    "main.0e429a28.js.map": "/soft-dev-technologies/static/js/main.0e429a28.js.map",
+    "453.7d1c53ea.chunk.js.map": "/soft-dev-technologies/static/js/453.7d1c53ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32dfad0e.css",
+    "static/js/main.0e429a28.js"
+  ]
+}
